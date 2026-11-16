@@ -1,0 +1,14 @@
+# Runtime dependencies. These ranges are not a fully pinned environment lock.
+numpy>=1.24,<2.0
+scipy>=1.10,<2.0
+pandas>=2.0,<3.0
+matplotlib>=3.7,<4.0
+torch>=2.2,<3.0
+torchdiffeq>=0.2.4,<0.3
+sympy>=1.11,<2.0
+scikit-learn>=1.2,<2.0
+pysr>=1.5,<2.0
+
+# Development utilities for formatting and package builds.
+black==24.4.2
+build>=1.2,<2.0

@@ -1,0 +1,10 @@
+{
+  "epochs": 10000,
+  "niterations": 2000,
+  "seed": null,
+  "device": "auto",
+  "show": false,
+  "usetex": false,
+  "dpi": 600,
+  "plot_interval": null
+}

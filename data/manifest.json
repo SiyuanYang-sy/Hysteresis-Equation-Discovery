@@ -1,0 +1,27 @@
+[
+  {
+    "path": "bouc_wen/uval_multisine.mat",
+    "size_bytes": 63204,
+    "sha256": "3eb9abc0aef66b97beaf003fbcb45b43a4e28d7e82db5bf8abc1c931b92106ed"
+  },
+  {
+    "path": "bouc_wen/uval_sinesweep.mat",
+    "size_bytes": 1166261,
+    "sha256": "fefd6c08bbf3b27f13f61a15ea0dd8c63211c5924e99f6ca43760d1f25ce9ed3"
+  },
+  {
+    "path": "bouc_wen/yval_multisine.mat",
+    "size_bytes": 63215,
+    "sha256": "05e462f7c508c26c8e69549e2b80ff5acea2828b399175c8bdd3fa70eb9905bc"
+  },
+  {
+    "path": "bouc_wen/yval_sinesweep.mat",
+    "size_bytes": 1170154,
+    "sha256": "52b49f7ff62487bf75efbed95bf759b06d8bad1127a8e63bc242e119d72bc57b"
+  },
+  {
+    "path": "mdof_2dof/mdof_2dof_truth_data.npz",
+    "size_bytes": 810754,
+    "sha256": "5c5d6a984e26a3761fa6fc7c68ae41145fe1ea775bf1e573de3d2ec67d1851e0"
+  }
+]

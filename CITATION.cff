@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this research code, please cite the accompanying paper."
+title: "A unified framework for equation discovery and dynamic prediction of hysteretic systems"
+type: software
+version: 0.1.0
+authors:
+  - family-names: Yang
+    given-names: Siyuan
+  - family-names: Liu
+    given-names: Wei
+  - family-names: Lai
+    given-names: Zhilu
+preferred-citation:
+  type: article
+  title: "A unified framework for equation discovery and dynamic prediction of hysteretic systems"
+  authors:
+    - family-names: Yang
+      given-names: Siyuan
+    - family-names: Liu
+      given-names: Wei
+    - family-names: Lai
+      given-names: Zhilu
+  journal: Mechanical Systems and Signal Processing
+  volume: "258"
+  start: "114725"
+  year: 2026
+  doi: 10.1016/j.ymssp.2026.114725

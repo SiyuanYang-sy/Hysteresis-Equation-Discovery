@@ -1,0 +1,36 @@
+# Local Python environments and caches.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Packaging artifacts.
+build/
+dist/
+*.egg-info/
+
+# Generated experiment outputs and temporary files.
+outputs/
+tmp/
+*.log
+
+# Julia and symbolic-regression scratch files.
+.julia/
+hall_of_fame*
+equations*.csv*
+
+# Editor and operating-system metadata.
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local secrets.
+.env
+.env.*
