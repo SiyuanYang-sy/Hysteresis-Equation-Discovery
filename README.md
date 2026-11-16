@@ -1,4 +1,4 @@
-# Hysteresis Discovery
+# Hysteresis Equation Discovery
 
 Research code for **A unified framework for equation discovery and dynamic
 prediction of hysteretic systems**, by Siyuan Yang, Wei Liu, and Zhilu Lai.
